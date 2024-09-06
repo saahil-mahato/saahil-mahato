@@ -45,7 +45,7 @@ Here are some of the tools and technologies I've worked with:
 
 Here are a few projects I've worked on:
 
-- **[Music Generator](link-to-your-project)**: Developed a custom Transformer model architecture from PyTorch and used it to generate music notes.
+- **[Music Generator](https://github.com/saahil-mahato/music-generator)**: Developed a custom Transformer model architecture from PyTorch and used it to generate music notes.
 
 ## 📫 Get in Touch
 
