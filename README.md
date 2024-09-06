@@ -49,8 +49,8 @@ Here are a few projects I've worked on:
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Saahil Mahato]([link-to-your-linkedin](https://www.linkedin.com/in/saahil-mahato-6810ba171/))
-- X: [@saahilmahto]([link-to-your-twitter](https://x.com/saahilmahto))
+- LinkedIn: [Saahil Mahato](https://www.linkedin.com/in/saahil-mahato-6810ba171/)
+- X: [@saahilmahto](https://x.com/saahilmahto)
 - Email: [saahilmahato11@gmail.com](mailto:saahilmahato11@gmail.com)
 
 Feel free to reach out if you want to collaborate on projects or just chat about technology!
