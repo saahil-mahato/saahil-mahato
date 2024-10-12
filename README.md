@@ -59,6 +59,8 @@ Feel free to reach out if you want to collaborate on projects or just chat about
 
 ![Saahil Mahato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saahil-mahato&show_icons=true&theme=radical)
 
+[![An image of @saahilmahato's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saahilmahato)](https://holopin.io/@saahilmahato)
+
 ---
 
 Thank you for visiting my profile! I'm excited about the journey ahead in web development and AI. Let's connect!
