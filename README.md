@@ -57,7 +57,7 @@ Feel free to reach out if you want to collaborate on projects or just chat about
 
 ## 📈 GitHub Stats
 
-![Saahil Mahato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saahil-mahato&show_icons=true&theme=radical)
+![Saahil Mahato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saahil-mahato&show_icons=true&theme=vue-dark)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=saahil-mahato&theme=juicyfresh)
 
