@@ -16,7 +16,8 @@ Throughout my career, I have worked on diverse projects that challenged my creat
 
 Here are a few projects I've worked on:
 
-- **[Music Generator](https://github.com/saahil-mahato/music-generator)**: Developed a custom Transformer model architecture from PyTorch and used it to generate music notes.
+- **[Music Generator](https://github.com/saahil-mahato/music-generator)**: A custom Transformer model architecture from PyTorch and used it to generate music notes.
+- **[SwiftCache](https://github.com/saahil-mahato/swift-cache)**: A cache system built in Java where the user can configure Read/Write and Eviction policies.
 
 ## 🌐 Let's Connect!
 
